@@ -1,0 +1,17 @@
+{
+  "host": "10.200.88.230",
+  "port": "32380",
+  "tqUserName": "admin",
+  "computeSpecList": [
+    {
+        "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
+        "computeSpecUuid": "439d33e6-cabd-4ebf-b99b-4178ffc15c64",
+        "computeSpecName": "toby-test"
+    },
+    {
+        "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
+        "computeSpecUuid": "79424e75-3ddf-4eb9-9c31-fec37b752e1b",
+        "computeSpecName": "test"
+    }
+  ]
+}

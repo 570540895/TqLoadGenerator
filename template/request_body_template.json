@@ -1,0 +1,23 @@
+{
+    "name": "toby",
+    "algorithmUuid": "4c549d7d-13e1-450d-988b-ffd4a3662093",
+    "algorithmName": "lmm-test",
+    "resource": {
+        "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
+        "computeSpecUuid": "79424e75-3ddf-4eb9-9c31-fec37b752e1b",
+        "computeSpecName": "test",
+        "workerNum": 1
+    },
+    "outputDir": {
+        "uuid": "d788e9e2-c669-4f0f-a7d0-fc670a6e4785",
+        "path": "s3://ttt/test"
+    },
+    "startCmd": "sleep infinity",
+    "envVars": [
+        {
+            "key": "OUTPUT_DIR",
+            "value": "/mnt/testhp1/ttt/test",
+            "readonly": "true"
+        }
+    ]
+}
