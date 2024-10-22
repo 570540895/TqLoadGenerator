@@ -1,0 +1,8 @@
+{
+  "host": "10.200.89.16",
+  "port": 3306,
+  "user": "dbreader",
+  "password": "Reader@2024",
+  "database": "tqgw_v1",
+  "charset": "utf8"
+}
