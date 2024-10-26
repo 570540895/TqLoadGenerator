@@ -1,6 +1,8 @@
+import datetime
+
 import requests
 import json
-from utils import sendRequest
+from utils import sendRequest, queryMysql
 import pymysql
 
 with open('./template/request_body_template.json', 'r') as fp:
@@ -12,14 +14,15 @@ with open('./template/request_headers_template.json', 'r') as fp:
     fp.close()
 
 with open('./config/mysql-config.json', 'r') as fp:
-    mysql_config_dict = json.load(fp)
+    mySql_config_dict = json.load(fp)
+    i = 1
     mysql_kwargs = {
-        'host': mysql_config_dict['host'],
-        'port': mysql_config_dict['port'],
-        'user': mysql_config_dict['user'],
-        'password': mysql_config_dict['password'],
-        'database': mysql_config_dict['database'],
-        'charset': mysql_config_dict['charset']
+        'host': mySql_config_dict['host'],
+        'port': mySql_config_dict['port'],
+        'user': mySql_config_dict['user'],
+        'password': mySql_config_dict['password'],
+        'database': mySql_config_dict['database'],
+        'charset': mySql_config_dict['charset']
     }
     fp.close()
 
@@ -31,17 +34,9 @@ d['resource'] = {
     "workerNum": 1
 }
 '''
-db = pymysql.connections.Connection(**mysql_kwargs)
-cur = db.cursor()
-sql = "select * from job_info where status = 'running';"
-try:
-    cur.execute(sql)
-    data = cur.fetchall()
-    print(data)
-except Exception as e:
-    print(e)
-cur.close()
-db.close()
+data = queryMysql.query_mysql(**mysql_kwargs)
+for d in data:
+    print(int(datetime.datetime.timestamp(d[1])))
 
 
 """"

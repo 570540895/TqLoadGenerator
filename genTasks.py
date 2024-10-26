@@ -1,10 +1,11 @@
+from datetime import datetime
 import logging
 import json
 import multiprocessing
 import time
 import pandas as pd
 import sched
-from utils import preProcess, sendRequest
+from utils import preProcess, sendRequest, queryMysql
 import pymysql
 
 # log config
@@ -52,11 +53,13 @@ with open(mysql_config_file, 'r') as fp:
 
 
 # generate tq tasks
-def gen_tasks():
+def gen_tasks(m_duration, s_dict):
     request_url = base_url + gen_api_path
 
     # sort csv file
     preProcess.sort_csv_file(csv_file, sorted_csv_file)
+
+    m_duration.value = preProcess.get_min_duration(sorted_csv_file)
 
     # read template files
     with open(headers_template_file, 'r') as fp:
@@ -78,7 +81,7 @@ def gen_tasks():
     for index, row in df.iterrows():
         task_name = 'tq_test_' + str(index)
         create_date = row['createDate']
-        exec_duration = max(int(row['exec_duration']) / time_compress, 1)
+        exec_duration = max(int(row['exec_duration'] / time_compress), 1)
         gpu_num = row['gpu_num']
         worker_num = row['worker_num']
 
@@ -99,25 +102,45 @@ def gen_tasks():
         time_interval = int((create_date - csv_start_time) / time_compress)
         scheduler.enter(exec_start_time+time_interval-int(time.time()), 0,
                         sendRequest.send_request, (request_url, 'post', headers_json, body_json))
-        shared_dict[task_name] = exec_duration
+        s_dict[task_name] = exec_duration
     scheduler.run()
 
 
 # stop tq tasks
-def stop_tasks():
+def stop_tasks(m_duration, s_dict):
+    # read config json
+    with open(headers_template_file, 'r') as fp:
+        headers_json = json.load(fp)
+        fp.close()
+
     request_url = base_url + stop_api_path
-    db = pymysql.connections.Connection(**mysql_kwargs)
-    cur = db.cursor()
+
     while True:
-
-
-
+        scheduler = sched.scheduler(time.time, time.sleep)
+        mysql_rows = queryMysql.query_mysql(**mysql_kwargs)
+        for row in mysql_rows:
+            uuid = row[0]
+            task_name = row[1]
+            start_time = int(datetime.timestamp(row[2]))
+            now = int(time.time())
+            if task_name not in s_dict:
+                log.error('Task: {} not found while stopping task'.format(task_name))
+                continue
+            if s_dict['task_name'] == 0:
+                continue
+            request_url = request_url.format(uuid)
+            scheduler.enter(start_time+s_dict[task_name]-now, 0,
+                            sendRequest.send_request, (request_url, 'put', headers_json, {}))
+        if not scheduler.empty():
+            scheduler.run()
+        time.sleep(max(m_duration-1, 1))
 
 
 if __name__ == '__main__':
     with multiprocessing.Manager() as manager:
+        min_duration = multiprocessing.Value('i', 10)
         shared_dict = manager.dict()
-        p1 = multiprocessing.Process(target=gen_tasks, args=())
-        p2 = multiprocessing.Process(target=stop_tasks, args=())
+        p1 = multiprocessing.Process(target=gen_tasks, args=(min_duration, shared_dict, ))
+        p2 = multiprocessing.Process(target=stop_tasks, args=(min_duration, shared_dict, ))
         p1.start()
         p2.start()

@@ -16,3 +16,15 @@ def sort_csv_file(csv_file, sorted_csv_file):
         log.error(e)
         print(e)
         raise
+
+
+def get_min_duration(sorted_csv_file):
+    min_duration = 10000
+    try:
+        df = pd.read_csv(sorted_csv_file)
+        for _, row in df.iterrows():
+            min_duration = min(min_duration, row['exec_duration'])
+    except Exception as e:
+        log.error(e)
+        raise
+    return min_duration
