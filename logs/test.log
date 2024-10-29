@@ -1,0 +1,260 @@
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data.csv'
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data.csv'
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data.csv'
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data.csv'
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data.csv'
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data.csv'
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:generate tasks error: index: 71 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 76 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 79 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 124 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 196 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 269 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 271 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 310 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 446 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 454 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 478 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 480 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 571 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 585 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 594 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 601 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 616 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 665 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 712 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 713 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 734 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 851 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 852 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 853 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 855 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 857 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 860 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 865 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 874 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 889 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 894 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 895 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 897 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 898 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 899 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 946 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 947 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 948 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1085 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1091 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1095 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1098 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1111 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1123 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1127 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1134 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1135 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1136 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1157 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1159 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1173 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1199 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1205 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1404 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1449 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1454 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1471 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1509 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1515 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1524 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1594 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1595 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 1596 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3148 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3150 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3153 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3311 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3313 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3535 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3536 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3537 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3569 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3729 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3730 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3732 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3770 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3771 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3772 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 3784 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5096 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5097 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5098 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5134 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5145 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5147 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5157 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5160 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5179 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5182 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5225 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5226 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5229 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5238 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5254 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5256 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5340 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5346 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 5350 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 6593 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 6602 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 6605 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 6779 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 6780 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 8695 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 8716 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 8741 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 8742 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 8743 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 9479 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 9486 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 9487 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 9489 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 9490 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 9531 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 10147 gpu_num is not 4 or 8.
+ERROR:__mp_main__:generate tasks error: index: 10159 gpu_num is not 4 or 8.
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 401 45
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 401 45
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 401 45
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data_test.csv'
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+ERROR:__mp_main__:Task: toby not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 401 45
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 400 136
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 10.200.88.230:32380
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://10.200.88.230:32380 "POST /api/model/trainjobs/ HTTP/11" 200 1226

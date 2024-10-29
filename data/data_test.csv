@@ -1,0 +1,6 @@
+﻿uuid,name,createDate,lastOpDate,status,startTime,endTime,gpu_name,gpu_num,worker_num,cpu_num,mem(GB),schedule_time,exec_duration
+d95f1f4f-a068-4df8-84a8-ea06f2b32cf6,geogpt-table-qwen2-72b-datav05-lora-1e-4,1718643343,1718710037,finished,1718645047,1718710037,A100-SXM4-80GB,8,4,64,896,1704,64990
+9dacfae5-8e37-443e-9a67-f74aef94c2fd,geogpt-qwen2-chat-0612dpo-dare-ties-p51,1718645010,1718681783,finished,1718645029,1718681783,A100-SXM4-80GB,8,1,64,448,19,36754
+1a26a41b-86d2-4292-849f-a10636ecf748,geogpt-qwen2-chat-0612dpo-dare-ties-p53,1718645031,1718690727,finished,1718645051,1718690727,A100-SXM4-80GB,8,1,64,448,20,45676
+59415a19-4b09-4775-b32a-eaca2f568f04,geogpt-qwen2-chat-0612dpo-dare-ties-p55,1718645033,1718690728,finished,1718645051,1718690728,A100-SXM4-80GB,8,1,64,448,18,45677
+3c0f3f69-8b79-47a5-8994-4d4a01612ffe,geogpt-qwen2-chat-0612dpo-dare-ties-p57,1718645053,1718690762,finished,1718645073,1718690762,A100-SXM4-80GB,8,1,64,448,20,45689
