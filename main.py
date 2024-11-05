@@ -9,7 +9,6 @@ import time
 from datetime import datetime
 from utils import getToken, preProcess, queryMysql, sendRequest
 
-
 is_debug = True if sys.gettrace() else False
 
 # log config

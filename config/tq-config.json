@@ -3,15 +3,15 @@
   "port": "32380",
   "tqUserName": "admin",
   "computeSpecList": [
-    {
+        {
         "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
-        "computeSpecUuid": "439d33e6-cabd-4ebf-b99b-4178ffc15c64",
-        "computeSpecName": "toby-test"
+        "computeSpecUuid": "fb4b8f47-6a2a-4edd-8aea-bc143eaff452",
+        "computeSpecName": "hollow-nodes-4-gpu"
     },
     {
         "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
-        "computeSpecUuid": "79424e75-3ddf-4eb9-9c31-fec37b752e1b",
-        "computeSpecName": "test"
+        "computeSpecUuid": "fffcf22b-a9af-4aae-91cb-9760ec559872",
+        "computeSpecName": "hollow-nodes-8-gpu"
     }
   ]
 }
