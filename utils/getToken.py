@@ -1,8 +1,13 @@
+import logging
 import json
-import sendRequest
+from utils import sendRequest
 
 api_path = '/api/users/refreshToken'
-tq_refresh_token_config_file = '../config/tq-refresh-token.json'
+tq_refresh_token_config_file = './config/tq-refresh-token.json'
+
+log_file = r'logs/test.log'
+logging.basicConfig(filename=log_file, level=logging.DEBUG)
+log = logging.getLogger(__name__)
 
 
 def get_tq_token(base_url):
@@ -14,6 +19,12 @@ def get_tq_token(base_url):
     request_url = base_url + api_path
     headers = {'Authorization': 'tqRefreshToken={}'.format(tq_refresh_token)}
     response = sendRequest.send_request(request_url, 'patch', headers=headers)
+    if 'code' not in response:
+        log.error("Response code not found when get token.")
+        raise
+    if response['code'] != 200:
+        log.error('Error when get token: code:{}, msg:{}'.format(response['code'], response['msg']))
+        raise
     return response['data']['tqToken']
 
 

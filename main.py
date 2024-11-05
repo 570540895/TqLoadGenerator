@@ -93,16 +93,20 @@ def gen_tasks(m_duration, s_dict, s_lock):
 
         body = copy.deepcopy(body_json)
         body['name'] = task_name
-        if gpu_num == 4:
+        if gpu_num == 1:
             body['resource']['projectUuid'] = compute_spec_list[0]['projectUuid']
             body['resource']['computeSpecUuid'] = compute_spec_list[0]['computeSpecUuid']
             body['resource']['computeSpecName'] = compute_spec_list[0]['computeSpecName']
-        elif gpu_num == 8:
+        elif gpu_num == 4:
             body['resource']['projectUuid'] = compute_spec_list[1]['projectUuid']
             body['resource']['computeSpecUuid'] = compute_spec_list[1]['computeSpecUuid']
             body['resource']['computeSpecName'] = compute_spec_list[1]['computeSpecName']
+        elif gpu_num == 8:
+            body['resource']['projectUuid'] = compute_spec_list[2]['projectUuid']
+            body['resource']['computeSpecUuid'] = compute_spec_list[2]['computeSpecUuid']
+            body['resource']['computeSpecName'] = compute_spec_list[2]['computeSpecName']
         else:
-            log.error('generate tasks error: index: {} gpu_num is not 4 or 8.'.format(index))
+            log.error('generate tasks error: index: {} gpu_num is {}.'.format(index, gpu_num))
             continue
         body['resource']['workerNum'] = worker_num
 

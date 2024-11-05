@@ -3,7 +3,12 @@
   "port": "32380",
   "tqUserName": "admin",
   "computeSpecList": [
-        {
+    {
+        "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
+        "computeSpecUuid": "b1c4a4d0-3348-47d8-8c96-953c3d46219f",
+        "computeSpecName": "hollow-nodes-1-gpu"
+    },
+    {
         "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
         "computeSpecUuid": "fb4b8f47-6a2a-4edd-8aea-bc143eaff452",
         "computeSpecName": "hollow-nodes-4-gpu"
