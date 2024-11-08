@@ -3,7 +3,7 @@ import logging as log
 from utils import sendRequest
 
 api_path = '/api/users/refreshToken'
-rf_token_cfg_file = '../config/tq-refresh-token.json' if __name__ == '__main__' else './config/tq-refresh-token.json '
+rf_token_cfg_file = '../config/tq-refresh-token.json' if __name__ == '__main__' else './config/tq-refresh-token.json'
 
 
 def get_tq_token(base_url):
