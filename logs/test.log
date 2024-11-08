@@ -266,3 +266,69 @@ ERROR:utils.getToken:Error when get token: code:401, msg:refreshToken is expired
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
 DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 401 44
 ERROR:utils.getToken:Error when get token: code:401, msg:refreshToken is expired
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 401 44
+ERROR:utils.getToken:Error when get token: code:401, msg:refreshToken is expired
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1226
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1236
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1236
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1236
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1236
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1236
+ERROR:__mp_main__:Task: toby-test not found while stopping task

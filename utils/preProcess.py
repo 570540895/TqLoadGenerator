@@ -1,7 +1,7 @@
 import logging
 import pandas as pd
 
-log_file = r'logs/test.log'
+log_file = './logs/test.log'
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 log = logging.getLogger(__name__)
 

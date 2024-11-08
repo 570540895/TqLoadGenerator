@@ -10,6 +10,7 @@ def query_mysql(**kwargs):
     db = pymysql.connections.Connection(**kwargs)
     cur = db.cursor()
     sql = "select uuid, name, startTime from gpu_consumption_info where status = 'running';"
+    data = tuple()
     try:
         cur.execute(sql)
         data = cur.fetchall()

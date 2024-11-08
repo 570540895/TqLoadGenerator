@@ -3,15 +3,14 @@ import json
 from utils import sendRequest
 
 api_path = '/api/users/refreshToken'
-tq_refresh_token_config_file = './config/tq-refresh-token.json'
-
-log_file = r'logs/test.log'
+rf_token_cfg_file = '../config/tq-refresh-token.json' if __name__ == '__main__' else './config/tq-refresh-token.json '
+log_file = '../logs/test.log' if __name__ == '__main__' else './logs/test.log'
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 log = logging.getLogger(__name__)
 
 
 def get_tq_token(base_url):
-    with open(tq_refresh_token_config_file, 'r') as fp:
+    with open(rf_token_cfg_file, 'r') as fp:
         d = json.load(fp)
         tq_refresh_token = d['tqRefreshToken']
         fp.close()

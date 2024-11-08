@@ -4,19 +4,19 @@
     "algorithmName": "lmm-test",
     "resource": {
         "projectUuid": "b34b40f9-9861-4234-ae3e-030cd7f8eddb",
-        "computeSpecUuid": "79424e75-3ddf-4eb9-9c31-fec37b752e1b",
-        "computeSpecName": "test",
+        "computeSpecUuid": "fffcf22b-a9af-4aae-91cb-9760ec559872",
+        "computeSpecName": "hollow-nodes-8-gpu",
         "workerNum": 1
     },
     "outputDir": {
-        "uuid": "d788e9e2-c669-4f0f-a7d0-fc670a6e4785",
-        "path": "s3://ttt/test"
+        "uuid": "6652c1bc-d1d2-4827-80f4-2eeacb975ec5",
+        "path": "s3://data"
     },
     "startCmd": "sleep infinity",
     "envVars": [
         {
             "key": "OUTPUT_DIR",
-            "value": "/mnt/testhp1/ttt/test",
+            "value": "/mnt/nfs/data",
             "readonly": "true"
         }
     ]
