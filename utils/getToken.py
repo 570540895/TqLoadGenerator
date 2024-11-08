@@ -1,12 +1,9 @@
-import logging
 import json
+import logging as log
 from utils import sendRequest
 
 api_path = '/api/users/refreshToken'
 rf_token_cfg_file = '../config/tq-refresh-token.json' if __name__ == '__main__' else './config/tq-refresh-token.json '
-log_file = '../logs/test.log' if __name__ == '__main__' else './logs/test.log'
-logging.basicConfig(filename=log_file, level=logging.DEBUG)
-log = logging.getLogger(__name__)
 
 
 def get_tq_token(base_url):

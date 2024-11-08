@@ -1,10 +1,6 @@
-import logging
 import json
+import logging as log
 import requests
-
-log_file = 'logs/test.log'
-logging.basicConfig(filename=log_file, level=logging.DEBUG)
-log = logging.getLogger(__name__)
 
 
 def send_request(url, method, headers, body=None):

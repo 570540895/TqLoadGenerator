@@ -1,18 +1,18 @@
 import copy
+import datetime
 import json
 import logging
 import multiprocessing
 import pandas as pd
-import threading
 import sys
+import threading
 import time
-from datetime import datetime
 from utils import getToken, preProcess, queryMysql, sendRequest
 
 is_debug = True if sys.gettrace() else False
 
 # log config
-log_file = r'./logs/test.log'
+log_file = './logs/log-{}.log'.format(datetime.date.today())
 logging.basicConfig(filename=log_file, level=logging.DEBUG)
 log = logging.getLogger(__name__)
 
@@ -56,14 +56,14 @@ with open(mysql_config_file, 'r') as fp:
 tq_token = getToken.get_tq_token(base_url)
 
 
-# generate tq tasks
-def gen_tasks(m_duration, s_dict, s_lock):
+# generate tq jobs
+def gen_jobs(m_duration, s_dict, s_lock):
     request_url = base_url + gen_api_path
 
     # sort csv file
     preProcess.sort_csv_file(csv_file, sorted_csv_file)
 
-    m_duration.value = preProcess.get_min_duration(sorted_csv_file) if not is_debug else 10
+    m_duration.value = preProcess.get_min_duration(sorted_csv_file) if not is_debug else 3
 
     # read template files
     with open(headers_template_file, 'r') as fp:
@@ -116,8 +116,8 @@ def gen_tasks(m_duration, s_dict, s_lock):
             s_dict[task_name] = exec_duration
 
 
-# stop tq tasks
-def stop_tasks(m_duration, s_dict, s_lock):
+# stop tq jobs
+def stop_jobs(m_duration, s_dict, s_lock):
     # read config json
     with open(headers_template_file, 'r') as fp:
         headers_json = json.load(fp)
@@ -129,7 +129,7 @@ def stop_tasks(m_duration, s_dict, s_lock):
         for row in mysql_rows:
             uuid = row[0]
             task_name = row[1]
-            start_time = int(datetime.timestamp(row[2]))
+            start_time = int(datetime.datetime.timestamp(row[2]))
             now = int(time.time())
             if task_name not in s_dict:
                 # log.error('Task: {} not found in generated tasks set while stopping task'.format(task_name))
@@ -148,8 +148,8 @@ if __name__ == '__main__':
         min_duration = multiprocessing.Value('i', 10)
         shared_dict = manager.dict()
         lock = multiprocessing.Lock()
-        p1 = multiprocessing.Process(target=gen_tasks, args=(min_duration, shared_dict, lock, ))
-        p2 = multiprocessing.Process(target=stop_tasks, args=(min_duration, shared_dict, lock, ))
+        p1 = multiprocessing.Process(target=gen_jobs, args=(min_duration, shared_dict, lock, ))
+        p2 = multiprocessing.Process(target=stop_jobs, args=(min_duration, shared_dict, lock, ))
         p1.start()
         p2.start()
         p1.join()

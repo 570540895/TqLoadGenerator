@@ -1,0 +1,52 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/01bb9d12-1f7a-484a-8381-949512b40ea0/stop HTTP/11" 200 None
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/01bb9d12-1f7a-484a-8381-949512b40ea0/stop.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c6d5579a-2bb8-4e8b-9c12-e5e58090d94b/stop HTTP/11" 200 None
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/c6d5579a-2bb8-4e8b-9c12-e5e58090d94b/stop.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3f433278-8c84-4021-a969-1e6fd36a32f6/stop HTTP/11" 200 None
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/3f433278-8c84-4021-a969-1e6fd36a32f6/stop.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e534a1bd-5bf7-4f5a-b3a1-c8080ba286a5/stop HTTP/11" 200 None
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/e534a1bd-5bf7-4f5a-b3a1-c8080ba286a5/stop.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c402a53e-d093-4654-8968-e476848a6752/stop HTTP/11" 200 None
+INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/c402a53e-d093-4654-8968-e476848a6752/stop.
