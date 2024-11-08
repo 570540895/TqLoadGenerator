@@ -3,7 +3,7 @@ import json
 import logging
 import multiprocessing
 import pandas as pd
-import sched
+import threading
 import sys
 import time
 from datetime import datetime
@@ -24,7 +24,6 @@ time_compress = 30
 start_interval = 10
 
 # stop tasks params
-stop_api_path = '/api/model/trainjobs/{}/stop'
 
 # config params
 tq_config_file = './config/tq-config.json'
@@ -64,7 +63,7 @@ def gen_tasks(m_duration, s_dict, s_lock):
     # sort csv file
     preProcess.sort_csv_file(csv_file, sorted_csv_file)
 
-    m_duration.value = preProcess.get_min_duration(sorted_csv_file)
+    m_duration.value = preProcess.get_min_duration(sorted_csv_file) if not is_debug else 10
 
     # read template files
     with open(headers_template_file, 'r') as fp:
@@ -82,12 +81,10 @@ def gen_tasks(m_duration, s_dict, s_lock):
     csv_start_time = df['createDate'][0]
     exec_start_time = int(time.time()) + start_interval
 
-    scheduler = sched.scheduler(time.time, time.sleep)
-
     for index, row in df.iterrows():
         task_name = 'tq-test-' + str(index)
         create_date = row['createDate']
-        exec_duration = max(int(row['exec_duration'] / time_compress), 1)
+        exec_duration = max(int(row['exec_duration'] / time_compress), 1) if not is_debug else 10
         gpu_num = row['gpu_num']
         worker_num = row['worker_num']
 
@@ -111,13 +108,12 @@ def gen_tasks(m_duration, s_dict, s_lock):
         body['resource']['workerNum'] = worker_num
 
         time_interval = int((create_date - csv_start_time) / time_compress)
-        scheduler.enter(exec_start_time + time_interval - int(time.time()), 0,
-                        sendRequest.send_request, (request_url, 'post', headers_json, body))
+        threading.Timer(exec_start_time + time_interval - int(time.time()),
+                        sendRequest.send_request, args=[request_url, 'post', headers_json, body]).start()
         if is_debug:
             print('scheduled task name: {} time: {}'.format(task_name, time_interval))
         with s_lock:
             s_dict[task_name] = exec_duration
-    scheduler.run()
 
 
 # stop tq tasks
@@ -128,10 +124,7 @@ def stop_tasks(m_duration, s_dict, s_lock):
         headers_json['Authorization'] = 'tqToken={}'.format(tq_token)
         fp.close()
 
-    request_url = base_url + stop_api_path
-
     while True:
-        scheduler = sched.scheduler(time.time, time.sleep)
         mysql_rows = queryMysql.query_mysql(**mysql_kwargs)
         for row in mysql_rows:
             uuid = row[0]
@@ -139,16 +132,15 @@ def stop_tasks(m_duration, s_dict, s_lock):
             start_time = int(datetime.timestamp(row[2]))
             now = int(time.time())
             if task_name not in s_dict:
-                log.error('Task: {} not found while stopping task'.format(task_name))
+                # log.error('Task: {} not found in generated tasks set while stopping task'.format(task_name))
                 continue
-            request_url = request_url.format(uuid)
-            scheduler.enter(start_time+s_dict[task_name]-now, 0,
-                            sendRequest.send_request, (request_url, 'put', headers_json))
+            stop_api_path = '/api/model/trainjobs/{}/stop'.format(uuid)
+            request_url = base_url + stop_api_path
+            threading.Timer(start_time+s_dict[task_name]-now,
+                            sendRequest.send_request, args=[request_url, 'put', headers_json]).start()
             with s_lock:
                 del s_dict[task_name]
-        if not scheduler.empty():
-            scheduler.run()
-        time.sleep(max(m_duration.value - 1, 1))
+        time.sleep(max(m_duration.value - 1, 3))
 
 
 if __name__ == '__main__':

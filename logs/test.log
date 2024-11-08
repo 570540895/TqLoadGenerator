@@ -332,3 +332,1058 @@ DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32
 DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
 DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1236
 ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: new-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:utils.preProcess:[Errno 13] Permission denied: './data/sorted_data_test.csv'
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop, error msg: delete dbitem [c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: invalid argument: query dbitem with key/value [uuid/c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop, error msg: delete dbitem [c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: invalid argument: query dbitem with key/value [uuid/c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop, error msg: delete dbitem [c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: invalid argument: query dbitem with key/value [uuid/c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop, error msg: delete dbitem [c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: invalid argument: query dbitem with key/value [uuid/c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/c5aa74c6-1191-4c83-a984-19d0e8b810bc/stop, error msg: delete dbitem [c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: invalid argument: query dbitem with key/value [uuid/c5aa74c6-1191-4c83-a984-19d0e8b810bc] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop, error msg: delete dbitem [3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: invalid argument: query dbitem with key/value [uuid/3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop, error msg: delete dbitem [3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: invalid argument: query dbitem with key/value [uuid/3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop, error msg: delete dbitem [3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: invalid argument: query dbitem with key/value [uuid/3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop, error msg: delete dbitem [3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: invalid argument: query dbitem with key/value [uuid/3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3e4f8543-58b4-43bc-ae4a-175ea21af11c/stop, error msg: delete dbitem [3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: invalid argument: query dbitem with key/value [uuid/3e4f8543-58b4-43bc-ae4a-175ea21af11c] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop, error msg: delete dbitem [0337b844-369b-4cea-9666-af5bf188f349] failed: invalid argument: query dbitem with key/value [uuid/0337b844-369b-4cea-9666-af5bf188f349] failed: database operation error: record not found
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop, error msg: delete dbitem [0337b844-369b-4cea-9666-af5bf188f349] failed: invalid argument: query dbitem with key/value [uuid/0337b844-369b-4cea-9666-af5bf188f349] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop, error msg: delete dbitem [0337b844-369b-4cea-9666-af5bf188f349] failed: invalid argument: query dbitem with key/value [uuid/0337b844-369b-4cea-9666-af5bf188f349] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop, error msg: delete dbitem [0337b844-369b-4cea-9666-af5bf188f349] failed: invalid argument: query dbitem with key/value [uuid/0337b844-369b-4cea-9666-af5bf188f349] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/0337b844-369b-4cea-9666-af5bf188f349/stop, error msg: delete dbitem [0337b844-369b-4cea-9666-af5bf188f349] failed: invalid argument: query dbitem with key/value [uuid/0337b844-369b-4cea-9666-af5bf188f349] failed: database operation error: record not found
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop, error msg: delete dbitem [e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: invalid argument: query dbitem with key/value [uuid/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop HTTP/11" 400 222
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop, error msg: delete dbitem [e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: invalid argument: query dbitem with key/value [uuid/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: database operation error: record not found
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop, error msg: delete dbitem [e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: invalid argument: query dbitem with key/value [uuid/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop, error msg: delete dbitem [e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: invalid argument: query dbitem with key/value [uuid/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc/stop, error msg: delete dbitem [e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: invalid argument: query dbitem with key/value [uuid/e52cd4fe-2bc5-48f1-9b6e-076e3f7120bc] failed: database operation error: record not found
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop, error msg: delete dbitem [80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: invalid argument: query dbitem with key/value [uuid/80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop, error msg: delete dbitem [80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: invalid argument: query dbitem with key/value [uuid/80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop, error msg: delete dbitem [80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: invalid argument: query dbitem with key/value [uuid/80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop, error msg: delete dbitem [80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: invalid argument: query dbitem with key/value [uuid/80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/80fea09a-22fe-4ed4-b945-847cdf9d3168/stop, error msg: delete dbitem [80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: invalid argument: query dbitem with key/value [uuid/80fea09a-22fe-4ed4-b945-847cdf9d3168] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3054ea72-05ef-4d21-bb7d-f195c05bcd5e/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3054ea72-05ef-4d21-bb7d-f195c05bcd5e/stop, error msg: delete dbitem [3054ea72-05ef-4d21-bb7d-f195c05bcd5e] failed: invalid argument: query dbitem with key/value [uuid/3054ea72-05ef-4d21-bb7d-f195c05bcd5e] failed: database operation error: record not found
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: toby-test not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/3054ea72-05ef-4d21-bb7d-f195c05bcd5e/stop HTTP/11" 400 222
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/3054ea72-05ef-4d21-bb7d-f195c05bcd5e/stop, error msg: delete dbitem [3054ea72-05ef-4d21-bb7d-f195c05bcd5e] failed: invalid argument: query dbitem with key/value [uuid/3054ea72-05ef-4d21-bb7d-f195c05bcd5e] failed: database operation error: record not found
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop.
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop HTTP/11" 403 103
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop HTTP/11" 403 103
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop, error msg: invalid operation: action [stop] is not allowed on dbitem when status is [stopped]
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop HTTP/11" 403 103
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop, error msg: invalid operation: action [stop] is not allowed on dbitem when status is [stopped]
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop, error msg: invalid operation: action [stop] is not allowed on dbitem when status is [stopped]
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop HTTP/11" 403 103
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/5544e659-26a4-467e-98ff-f531dfb46fae/stop, error msg: invalid operation: action [stop] is not allowed on dbitem when status is [stopped]
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/e8c8bdf0-2a8f-476e-911f-9713ece57a2d/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/e8c8bdf0-2a8f-476e-911f-9713ece57a2d/stop.
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/6f4ca1c0-5aba-4ba4-adbf-c68c9c3442dc/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/6f4ca1c0-5aba-4ba4-adbf-c68c9c3442dc/stop.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/f467a26f-b614-4bdb-8419-cafcb3595af7/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/f467a26f-b614-4bdb-8419-cafcb3595af7/stop.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/ccd1dce9-c857-4d8c-9aab-ab14e853650b/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/ccd1dce9-c857-4d8c-9aab-ab14e853650b/stop.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/ec5f2b35-16bd-4753-bf85-e06d2c68bdde/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/ec5f2b35-16bd-4753-bf85-e06d2c68bdde/stop.
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PATCH http://10.200.88.230:32380/api/users/refreshToken HTTP/11" 200 269
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/users/refreshToken.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/6ef0c597-2f33-461e-b6f9-6ffd69c7e432/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/6ef0c597-2f33-461e-b6f9-6ffd69c7e432/stop.
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-0 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs HTTP/11" 307 0
+DEBUG:urllib3.connectionpool:Resetting dropped connection: 127.0.0.1
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "POST http://10.200.88.230:32380/api/model/trainjobs/ HTTP/11" 200 1224
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs.
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:8001
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/6f4ca1c0-5aba-4ba4-adbf-c68c9c3442dc/stop HTTP/11" 403 103
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/ccd1dce9-c857-4d8c-9aab-ab14e853650b/stop HTTP/11" 403 103
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/ccd1dce9-c857-4d8c-9aab-ab14e853650b/stop, error msg: invalid operation: action [stop] is not allowed on dbitem when status is [stopped]
+ERROR:utils.sendRequest:failed send request url: http://10.200.88.230:32380/api/model/trainjobs/6f4ca1c0-5aba-4ba4-adbf-c68c9c3442dc/stop, error msg: invalid operation: action [stop] is not allowed on dbitem when status is [stopped]
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/5cd0c4d0-095e-4cb2-b43d-44b5fee44a31/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/5cd0c4d0-095e-4cb2-b43d-44b5fee44a31/stop.
+DEBUG:urllib3.connectionpool:http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/18c4706f-a059-4041-9dfd-dcf1c3cca392/stop HTTP/11" 200 None
+INFO:utils.sendRequest:successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/18c4706f-a059-4041-9dfd-dcf1c3cca392/stop.
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-1 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-2 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-4 not found in generated tasks set while stopping task
+ERROR:__mp_main__:Task: tq-test-3 not found in generated tasks set while stopping task
