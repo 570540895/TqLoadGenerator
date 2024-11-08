@@ -13,7 +13,8 @@ is_debug = True if sys.gettrace() else False
 
 # log config
 log_file = './logs/log-{}.log'.format(datetime.date.today())
-logging.basicConfig(filename=log_file, level=logging.DEBUG)
+logging.basicConfig(filename=log_file, level=logging.DEBUG,
+                    format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 log = logging.getLogger(__name__)
 
 # generate tasks params
@@ -82,7 +83,8 @@ def gen_jobs(m_duration, s_dict, s_lock):
     exec_start_time = int(time.time()) + start_interval
 
     for index, row in df.iterrows():
-        task_name = 'tq-test-' + str(index)
+        name_prefix = 'tq-test' if not is_debug else 'toby-test'
+        task_name = name_prefix + str(index)
         create_date = row['createDate']
         exec_duration = max(int(row['exec_duration'] / time_compress), 1) if not is_debug else 10
         gpu_num = row['gpu_num']
