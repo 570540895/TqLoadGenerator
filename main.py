@@ -83,7 +83,7 @@ def gen_jobs(m_duration, s_dict, s_lock):
     exec_start_time = int(time.time()) + start_interval
 
     for index, row in df.iterrows():
-        name_prefix = 'tq-test' if not is_debug else 'toby-test'
+        name_prefix = 'tq-test-' if not is_debug else 'toby-test-'
         task_name = name_prefix + str(index)
         create_date = row['createDate']
         exec_duration = max(int(row['exec_duration'] / time_compress), 1) if not is_debug else 10

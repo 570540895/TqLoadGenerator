@@ -139,3 +139,4 @@ INFO:root:successfully send request url: http://10.200.88.230:32380/api/model/tr
 2024-11-08 17:29:32 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8001
 2024-11-08 17:29:32 - DEBUG - http://127.0.0.1:8001 "PUT http://10.200.88.230:32380/api/model/trainjobs/8309ee18-dc38-4ce5-a3d0-a5d8dabde1c1/stop HTTP/11" 200 None
 2024-11-08 17:29:32 - INFO - successfully send request url: http://10.200.88.230:32380/api/model/trainjobs/8309ee18-dc38-4ce5-a3d0-a5d8dabde1c1/stop.
+2024-11-09 15:14:19 - ERROR - (2003, "Can't connect to MySQL server on '10.200.89.16' ([WinError 10065] 套接字操作尝试一个无法连接的主机。)")
