@@ -57,10 +57,6 @@ with open(mysql_config_file, 'r') as fp:
 tq_token = getToken.get_tq_token(base_url)
 
 
-def send_request_mock():
-
-
-
 # generate tq jobs
 def gen_jobs(m_duration, s_dict, s_lock):
     request_url = base_url + gen_api_path
@@ -93,7 +89,6 @@ def gen_jobs(m_duration, s_dict, s_lock):
         exec_duration = max(int(row['exec_duration'] / time_compress), 1) if not is_debug else 10
         gpu_num = row['gpu_num']
         worker_num = row['worker_num']
-
         body = copy.deepcopy(body_json)
         body['name'] = job_name
         if gpu_num == 1:
@@ -112,16 +107,9 @@ def gen_jobs(m_duration, s_dict, s_lock):
             log.error('generate jobs error: index: {} gpu_num is {}.'.format(index, gpu_num))
             continue
         body['resource']['workerNum'] = worker_num
-
         time_interval = int((create_date - csv_start_time) / time_compress)
-
-        '''
         threading.Timer(exec_start_time + time_interval - int(time.time()),
                         sendRequest.send_request, args=[request_url, 'post', headers_json, body]).start()
-        '''
-        threading.Timer(exec_start_time + time_interval - int(time.time()), send_request_mock, args=[]).start()
-
-
         if is_debug:
             print('scheduled job name: {} time: {}'.format(job_name, time_interval))
         with s_lock:
