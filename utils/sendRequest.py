@@ -22,4 +22,6 @@ def send_request(url, method, headers, body=None):
             log.info('successfully send request url: {}.'.format(url))
         else:
             log.error('failed send request url: {}, error msg: {}'.format(url, res_json['msg']))
+    else:
+        log.error('code not found in http response')
     return res_json

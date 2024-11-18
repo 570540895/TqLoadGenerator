@@ -32,7 +32,7 @@ mysql_config_file = './config/mysql-config.json'
 headers_template_file = './template/request_headers_template.json'
 body_template_file = './template/request_body_template.json'
 
-test_number = 2
+test_number = 3
 
 # read config files
 with open(tq_config_file, 'r') as fp:
@@ -85,7 +85,7 @@ def gen_jobs(m_duration, s_dict, s_lock):
     exec_start_time = int(time.time()) + start_interval
 
     for index, row in df.iterrows():
-        if index > 1000:
+        if index > 600:
             break
         name_prefix = 'tq-test-' if not is_debug else 'toby-test-'
         job_name = name_prefix + str(test_number) + '-' + str(index)
